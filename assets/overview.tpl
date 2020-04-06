@@ -25,7 +25,7 @@
     <div class="d-flex kpi-box">
       {{ kpi(name='Cases', number=D[prefix + ' Cases'], growth=D[prefix + ' Cases (+)']) }}&nbsp;&nbsp;&nbsp;
       {{ kpi(name='Recoveries', number=D[prefix + ' Recoveries'], growth=D[prefix + ' Recoveries (+)']) }}&nbsp;&nbsp;&nbsp;
-      {{ kpi(name='Deaths', number=D[prefix + ' Deaths'], growth=D[prefix + ' Deaths (+)']) }}
+      {{ kpi(name='Deaths', number=D[prefix + ' Deaths'], growth=D[prefix + ' Deaths (+)']) }}&nbsp;&nbsp;&nbsp;
     </div>
   </div>
 {%- endmacro %}
