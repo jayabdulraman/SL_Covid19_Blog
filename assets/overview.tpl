@@ -23,9 +23,9 @@
   <div class="kpi-sm">
     <div class="kpi-hed">{{ title }}</div>
     <div class="d-flex kpi-box">
-      {{ kpi(name='Cases', number=D[prefix + ' Cases'], growth=D[prefix + ' Cases (+)']) }}&nbsp;&nbsp;&nbsp;
-      {{ kpi(name='Recoveries', number=D[prefix + ' Recoveries'], growth=D[prefix + ' Recoveries (+)']) }}&nbsp;&nbsp;&nbsp;
-      {{ kpi(name='Deaths', number=D[prefix + ' Deaths'], growth=D[prefix + ' Deaths (+)']) }}&nbsp;&nbsp;&nbsp;
+      {{ kpi(name='Cases', number=D[prefix + ' Cases'], growth=D[prefix + ' Cases (+)']) }}&nbsp;&nbsp;&nbsp;&nbsp;
+      {{ kpi(name='Recoveries', number=D[prefix + ' Recoveries'], growth=D[prefix + ' Recoveries (+)']) }}&nbsp;&nbsp;&nbsp;&nbsp;
+      {{ kpi(name='Deaths', number=D[prefix + ' Deaths'], growth=D[prefix + ' Deaths (+)']) }}&nbsp;&nbsp;&nbsp;&nbsp;
     </div>
   </div>
 {%- endmacro %}
