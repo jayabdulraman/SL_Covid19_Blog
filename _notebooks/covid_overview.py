@@ -5,8 +5,8 @@ import getpass
 # base_url = 'https://raw.githubusercontent.com/pratapvardhan/notebooks/master/covid19/'
 # base_url = '' if (getpass.getuser() == 'Pratap Vardhan') else base_url
 paths = {
-    'mapping': 'countryContinent.csv',
-    'overview': 'overview.tpl'
+    'mapping': '/Users/BEBETO/Documents/GitHub/SL_Covid19_Blog/assets/countryContinent.csv',
+    'overview': '/Users/BEBETO/Documents/GitHub/SL_Covid19_Blog/assets/overview.tpl'
 }
 
 
