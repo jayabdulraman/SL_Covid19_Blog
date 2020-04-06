@@ -1,0 +1,82 @@
+{
+  
+    
+        "post0": {
+            "title": "COVID-19 World Overview",
+            "content": "An Exception was encountered at &#39;In [3]&#39;. . This notebook is update daily to meet current stats. Feel free to comment and give feedback! . adjusted_dates = adjusted_dates.reshape(1, -1)[0] len(adjusted_dates) . World Coronavirus Cases Overtime . Daily confirmed cases of Number of Countries . **China has flattened the curve whiles USA, Italy, Germany, Spain are still recording high number of cases Spain and Germany are closely related in reporting daily cases. .",
+            "url": "https://abdulj40.github.io/SL_Covid19_Blog/covid-overview/",
+            "relUrl": "/covid-overview/",
+            "date": " • Apr 5, 2020"
+        }
+        
+    
+  
+    
+        ,"post1": {
+            "title": "COVID-19 Tracking U.S. Cases",
+            "content": "WorldUSEurope US Confirmed Cases 311,536 (+147,853) Deaths 8,499 (+5,426) Updated on April 04, 2020 ( +change since 5 days ago.) . New York Cases 114,996 (+47,822) Deaths 3,568 (+2,344) Washington Cases 7,498 (+2,319) Deaths 318 (+97) California Cases 13,796 (+6,375) Deaths 323 (+177) In the last 5 days, 147,853 new Coronavirus cases have been reported in the US. Of which 47,822 (32%) are from New York State. Washington has reported 2,319 new cases in the last 5 days. . 5 50 500 . State New Cases Total Cases Deaths Fatality . | Mar. 21 Apr. 04 | | (+NEW) since Mar, 30 | | | . New York | | 114,996 | (+47,822) | 3,568 | (+2,344) | 3.1% | . New Jersey | | 34,124 | (+17,488) | 847 | (+648) | 2.5% | . Michigan | | 14,225 | (+7,717) | 540 | (+343) | 3.8% | . California | | 13,796 | (+6,375) | 323 | (+177) | 2.3% | . Louisiana | | 12,496 | (+8,471) | 412 | (+226) | 3.3% | . Massachusetts | | 11,736 | (+5,984) | 216 | (+155) | 1.8% | . Florida | | 11,537 | (+5,843) | 194 | (+123) | 1.7% | . Illinois | | 10,357 | (+5,287) | 248 | (+164) | 2.4% | . Pennsylvania | | 10,109 | (+5,953) | 139 | (+91) | 1.4% | . Washington | | 7,498 | (+2,319) | 318 | (+97) | 4.2% | . Texas | | 6,566 | (+3,523) | 124 | (+78) | 1.9% | . Georgia | | 6,383 | (+3,351) | 208 | (+106) | 3.3% | . Connecticut | | 5,276 | (+2,705) | 165 | (+129) | 3.1% | . Colorado | | 4,574 | (+1,946) | 126 | (+75) | 2.8% | . Indiana | | 3,953 | (+2,165) | 116 | (+81) | 2.9% | . Ohio | | 3,739 | (+1,806) | 102 | (+62) | 2.7% | . Tennessee | | 3,265 | (+1,544) | 47 | (+34) | 1.4% | . Maryland | | 3,125 | (+1,711) | 54 | (+39) | 1.7% | . Virginia | | 2,407 | (+1,386) | 52 | (+26) | 2.2% | . North Carolina | | 2,402 | (+1,098) | 30 | (+24) | 1.2% | . Missouri | | 2,291 | (+1,241) | 44 | (+31) | 1.9% | . Wisconsin | | 2,112 | (+845) | 60 | (+40) | 2.8% | . Arizona | | 2,019 | (+850) | 53 | (+33) | 2.6% | . South Carolina | | 1,917 | (+992) | 40 | (+22) | 2.1% | . Nevada | | 1,758 | (+714) | 46 | (+28) | 2.6% | . Alabama | | 1,633 | (+686) | 44 | (+33) | 2.7% | . Mississippi | | 1,455 | (+607) | 35 | (+19) | 2.4% | . Utah | | 1,428 | (+622) | 8 | (+4) | 0.6% | . Oklahoma | | 1,159 | (+678) | 42 | (+25) | 3.6% | . Idaho | | 1,077 | (+662) | 10 | (+3) | 0.9% | . Oregon | | 999 | (+393) | 26 | (+10) | 2.6% | . Kentucky | | 917 | (+437) | 40 | (+29) | 4.4% | . District of Columbia | | 902 | (+407) | 21 | (+12) | 2.3% | . Minnesota | | 865 | (+289) | 24 | (+14) | 2.8% | . Rhode Island | | 806 | (+398) | 17 | (+13) | 2.1% | . Iowa | | 786 | (+362) | 11 | (+5) | 1.4% | . Arkansas | | 743 | (+235) | 14 | (+7) | 1.9% | . Kansas | | 701 | (+328) | 21 | (+12) | 3.0% | . New Hampshire | | 621 | (+307) | 9 | (+6) | 1.4% | . Delaware | | 593 | (+329) | 14 | (+7) | 2.4% | . New Mexico | | 543 | (+262) | 11 | (+7) | 2.0% | . Vermont | | 461 | (+205) | 20 | (+8) | 4.3% | . Maine | | 456 | (+181) | 10 | (+7) | 2.2% | . Puerto Rico | | 452 | (+278) | 18 | (+12) | 4.0% | . Hawaii | | 349 | (+145) | 3 | (+3) | 0.9% | . Nebraska | | 339 | (+154) | 8 | (+5) | 2.4% | . West Virginia | | 282 | (+137) | 2 | (+1) | 0.7% | . Montana | | 281 | (+104) | 6 | (+2) | 2.1% | . Guam | | 223 | (+163) | 4 | (+3) | 1.8% | . South Dakota | | 212 | (+111) | 2 | (+1) | 0.9% | . Wyoming | | 187 | (+92) | 0 | (+0) | 0.0% | . North Dakota | | 186 | (+77) | 3 | (+0) | 1.6% | . Alaska | | 169 | (+50) | 3 | (+1) | 1.8% | . Virgin Islands | | 42 | (+12) | 0 | (+0) | 0.0% | . Northern Mariana Islands | | 8 | (+6) | 1 | (+1) | 12.5% | . .",
+            "url": "https://abdulj40.github.io/SL_Covid19_Blog/covid-overview-us/",
+            "relUrl": "/covid-overview-us/",
+            "date": " • Apr 5, 2020"
+        }
+        
+    
+  
+    
+        ,"post2": {
+            "title": "COVID-19 Tracking Europe Cases",
+            "content": "WorldUSEurope Europe Confirmed Cases 646,842 (+195,081) Deaths 49,239 (+18,975) Updated on April 05, 2020 ( +change since 5 days ago.) . Italy Cases 128,948 (+23,156) Deaths 15,887 (+3,459) Spain Cases 131,646 (+35,723) Deaths 12,641 (+4,177) Germany Cases 100,123 (+28,315) Deaths 1,584 (+809) In the last 5 days, 195,081 new Coronavirus cases have been reported in the Europe. Of which 23,156 (12%) are from Italy. Spain has reported 35,723 new cases in the last 5 days. . 5 50 500 . Country New Cases Total Cases Deaths Fatality . | Feb. 25 Apr. 05 | | (+NEW) since Mar, 31 | | | . Spain | | 131,646 | (+35,723) | 12,641 | (+4,177) | 9.6% | . Italy | | 128,948 | (+23,156) | 15,887 | (+3,459) | 12.3% | . Germany | | 100,123 | (+28,315) | 1,584 | (+809) | 1.6% | . France | | 93,773 | (+40,946) | 8,093 | (+4,561) | 8.6% | . United Kingdom | | 48,436 | (+22,955) | 4,943 | (+3,150) | 10.2% | . Switzerland | | 21,100 | (+4,495) | 715 | (+282) | 3.4% | . Belgium | | 19,691 | (+6,916) | 1,447 | (+742) | 7.3% | . Netherlands | | 17,953 | (+5,286) | 1,771 | (+731) | 9.9% | . Austria | | 12,051 | (+1,871) | 204 | (+76) | 1.7% | . Portugal | | 11,278 | (+3,835) | 295 | (+135) | 2.6% | . Sweden | | 6,830 | (+2,395) | 401 | (+221) | 5.9% | . Norway | | 5,687 | (+1,046) | 71 | (+32) | 1.2% | . Russia | | 5,389 | (+3,052) | 45 | (+28) | 0.8% | . Ireland | | 4,994 | (+1,759) | 158 | (+87) | 3.2% | . Czechia | | 4,587 | (+1,279) | 67 | (+36) | 1.5% | . Denmark | | 4,561 | (+1,522) | 179 | (+89) | 3.9% | . Poland | | 4,102 | (+1,791) | 94 | (+61) | 2.3% | . Romania | | 3,864 | (+1,619) | 151 | (+69) | 3.9% | . Luxembourg | | 2,804 | (+626) | 36 | (+13) | 1.3% | . Finland | | 1,927 | (+509) | 28 | (+11) | 1.5% | . Serbia | | 1,908 | (+1,008) | 51 | (+35) | 2.7% | . Greece | | 1,735 | (+421) | 73 | (+24) | 4.2% | . Iceland | | 1,486 | (+351) | 4 | (+2) | 0.3% | . Ukraine | | 1,308 | (+663) | 37 | (+20) | 2.8% | . Croatia | | 1,182 | (+315) | 15 | (+9) | 1.3% | . Estonia | | 1,097 | (+352) | 15 | (+11) | 1.4% | . Slovenia | | 997 | (+195) | 28 | (+13) | 2.8% | . Moldova | | 864 | (+511) | 15 | (+11) | 1.7% | . Lithuania | | 811 | (+274) | 13 | (+5) | 1.6% | . Hungary | | 733 | (+241) | 34 | (+18) | 4.6% | . Bosnia and Herzegovina | | 654 | (+234) | 23 | (+10) | 3.5% | . Belarus | | 562 | (+410) | 8 | (+7) | 1.4% | . North Macedonia | | 555 | (+226) | 18 | (+9) | 3.2% | . Latvia | | 533 | (+135) | 1 | (+1) | 0.2% | . Bulgaria | | 531 | (+132) | 20 | (+12) | 3.8% | . Andorra | | 501 | (+125) | 18 | (+6) | 3.6% | . Slovakia | | 485 | (+122) | 1 | (+1) | 0.2% | . Albania | | 361 | (+118) | 20 | (+5) | 5.5% | . San Marino | | 266 | (+30) | 32 | (+6) | 12.0% | . Malta | | 227 | (+58) | 0 | (+0) | 0.0% | . Kosovo | | 145 | (+33) | 1 | (+0) | 0.7% | . Liechtenstein | | 77 | (+9) | 1 | (+1) | 1.3% | . Monaco | | 73 | (+21) | 1 | (+0) | 1.4% | . Holy See | | 7 | (+1) | 0 | (+0) | 0.0% | . .",
+            "url": "https://abdulj40.github.io/SL_Covid19_Blog/covid-overview-europe/",
+            "relUrl": "/covid-overview-europe/",
+            "date": " • Apr 5, 2020"
+        }
+        
+    
+  
+    
+  
+    
+        ,"post4": {
+            "title": "An Example Markdown Post",
+            "content": "Example Markdown Post . Basic setup . Jekyll requires blog post files to be named according to the following format: . YEAR-MONTH-DAY-filename.md . Where YEAR is a four-digit number, MONTH and DAY are both two-digit numbers, and filename is whatever file name you choose, to remind yourself what this post is about. .md is the file extension for markdown files. . The first line of the file should start with a single hash character, then a space, then your title. This is how you create a “level 1 heading” in markdown. Then you can create level 2, 3, etc headings as you wish but repeating the hash character, such as you see in the line ## File names above. . Basic formatting . You can use italics, bold, code font text, and create links. Here’s a footnote 1. Here’s a horizontal rule: . . Lists . Here’s a list: . item 1 | item 2 | . And a numbered list: . item 1 | item 2 | Boxes and stuff . This is a quotation . . You can include alert boxes …and… . . You can include info boxes Images . . Code . You can format text and code per usual . General preformatted text: . # Do a thing do_thing() . Python code and output: . # Prints &#39;2&#39; print(1+1) . 2 . Formatting text as shell commands: . echo &quot;hello world&quot; ./some_script.sh --option &quot;value&quot; wget https://example.com/cat_photo1.png . Formatting text as YAML: . key: value - another_key: &quot;another value&quot; . Tables . Column 1 Column 2 . A thing | Another thing | . Tweetcards . Altair 4.0 is released! https://t.co/PCyrIOTcvvTry it with: pip install -U altairThe full list of changes is at https://t.co/roXmzcsT58 ...read on for some highlights. pic.twitter.com/vWJ0ZveKbZ . &mdash; Jake VanderPlas (@jakevdp) December 11, 2019 Footnotes . This is the footnote. &#8617; . |",
+            "url": "https://abdulj40.github.io/SL_Covid19_Blog/markdown/2020/01/14/test-markdown-post.html",
+            "relUrl": "/markdown/2020/01/14/test-markdown-post.html",
+            "date": " • Jan 14, 2020"
+        }
+        
+    
+  
+
+  
+  
+
+  
+      ,"page1": {
+          "title": "About Me",
+          "content": "This is where you put the contents of your About page. Like all your pages, it’s in Markdown format. . This website is powered by fastpages 1. . a blogging platform that natively supports Jupyter notebooks in addition to other formats. &#8617; . |",
+          "url": "https://abdulj40.github.io/SL_Covid19_Blog/about/",
+          "relUrl": "/about/",
+          "date": ""
+      }
+      
+  
+
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+
+}
