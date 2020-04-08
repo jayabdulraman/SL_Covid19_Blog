@@ -23,9 +23,9 @@
   <div class="kpi-sm">
     <div class="kpi-hed">{{ title }}</div>
     <div class="d-flex kpi-box">
-      {{ kpi(name='Cases', number=D[prefix + ' Cases'], growth=D[prefix + ' Cases (+)']) }}&nbsp;&nbsp;&nbsp;&nbsp;
-      {{ kpi(name='Recoveries', number=D[prefix + ' Recoveries'], growth=D[prefix + ' Recoveries (+)']) }}&nbsp;&nbsp;&nbsp;&nbsp;
-      {{ kpi(name='Deaths', number=D[prefix + ' Deaths'], growth=D[prefix + ' Deaths (+)']) }}&nbsp;&nbsp;&nbsp;&nbsp;
+      {{ kpi(name='Cases', number=D[prefix + ' Cases'], growth=D[prefix + ' Cases (+)']) }}&nbsp;&nbsp;&nbsp;
+      {{ kpi(name='Recoveries', number=D[prefix + ' Recoveries'], growth=D[prefix + ' Recoveries (+)']) }}&nbsp;&nbsp;&nbsp;
+      {{ kpi(name='Deaths', number=D[prefix + ' Deaths'], growth=D[prefix + ' Deaths (+)']) }}&nbsp;&nbsp;&nbsp;
     </div>
   </div>
 {%- endmacro %}
@@ -88,7 +88,7 @@
     <div class="kpi-hed text-center">{{ KPI_CASE }}</div>
     <div class="d-flex kpi-box">
       {{ kpi(name='Confirmed Cases', number=D['Cases'], growth=D['Cases (+)']) }}
-      {{ kpi(name='Confirmed Recoveries', number=D['Recoveries'], growth=D['Recoveries (+)']) }}
+      {{ kpi(name='Recoveries', number=D['Recoveries'], growth=D['Recoveries (+)']) }}
       {{ kpi(name='Deaths', number=D['Deaths'], growth=D['Deaths (+)']) }}
     </div>
   </div>
